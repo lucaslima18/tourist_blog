@@ -6,9 +6,12 @@ name = "pypi"
 [packages]
 django = "~=3.2"
 python-decouple = "*"
+djangorestframework = "*"
 
 [dev-packages]
 flake8 = "*"
+ipython = "*"
+django-extensions = "*"
 
 [requires]
 python_version = "3.9"

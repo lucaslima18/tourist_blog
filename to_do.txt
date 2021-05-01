@@ -1,0 +1,4 @@
+- fazer template do frontend com bootstrapp
+- usar o base.html
+- arquivos estáticos
+- internacionalização
