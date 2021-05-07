@@ -2,3 +2,12 @@
 - usar o base.html
 - arquivos estáticos
 - internacionalização
+- fazer README.md utilizando markdown
+- fazer gitignore -> https://gitignore.io 
+- organizar arquivos que não devem ir para o github
+
+SUGESTÕES DE FEATURES
+- endpoint para publicar post
+- ler somente os posts publicados (homepage/posts)
+- separar entre posts publicados e rascunhos no endpoint de posts do usuário
+

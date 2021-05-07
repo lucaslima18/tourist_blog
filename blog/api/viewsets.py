@@ -4,6 +4,6 @@ from rest_framework import permissions, viewsets
 
 
 class PostViewSet(viewsets.ModelViewSet):
-    queryset = Post.objects.all()
+    queryset = Post.objects.filter(status='published')
     serializer_class = PostSerializer
     permissions_class = [permissions.IsAuthenticated]
