@@ -1,6 +1,9 @@
 # Tourist Blog
 
-![Alt text](static/img/main_logo.png?raw=true "Title")
+<div align="center">
+    <img src="static/img/main_logo.png?raw=true">
+    <p><i>project logo</i></p>
+</div>
 
 ## About the project
 <b>This is a study project focused on a blog where people can tell a little about their experiences during trips and outings</b><br>
