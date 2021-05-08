@@ -1,6 +1,5 @@
-# Tourist Blog
-
 <div align="center">
+    <h1>Tourist Blog</h1>
     <img src="static/img/main_logo.png?raw=true">
     <p><i>project logo</i></p>
 </div>
